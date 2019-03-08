@@ -15,13 +15,13 @@
 
 
 
-relayPin = 4        			 -- Declare RELAY pin no. (D4)
-delayuS = 5000000 				 -- Set delay in microSecond. here 0.5 second
+relayPin = 4        			       -- Declare RELAY pin no. (D4)
+delayuS = 5000000 			      	 -- Set delay in microSecond. here 0.5 second
 
 gpio.mode(relayPin,gpio.OUTPUT)  -- Set RELAY pin as GPIO output pin
 
 gpio.write(relayPin,gpio.LOW)    -- Set RELAY pin HIGH i.e. RELAY ON
-tmr.delay(delayuS) 				 -- timer Delay
+tmr.delay(delayuS) 			      	 -- timer Delay
 gpio.write(relayPin,gpio.HIGH)   -- Set RELAY pin LOW i.e. RELAY OFF
-tmr.delay(delayuS) 				 -- timer Delay
+tmr.delay(delayuS) 		      		 -- timer Delay
 
