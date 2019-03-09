@@ -2,6 +2,10 @@
 
 I’m new to coding so I’ve created this after struggling to find really simple and well explained examples for my hobby projects.
 
+Current code includes:
+  LEDs
+  5v Relays
+
 I'm hoping to start a Youtube channel with tutorials for my examples soon.
 
 This repository  contains my NodeMCU lua examples, each folder contains the .lua file an image of the wiring setup and any notes to explain the setup where required.
