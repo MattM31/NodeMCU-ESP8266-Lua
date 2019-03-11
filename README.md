@@ -22,6 +22,7 @@ I connect to my ESP8266 and upload the code using <a href="https://esp8266.ru/es
 
 <h1>WiFi</h1>
 
+2 .lua files for connecting to WiFi in station mode. One is for a DCHP and the other is for a static IP configuration. The scripts will start by connecting to the access point and will print "Connecting..." continously while it connects, once a connection is established the script will print the connection settings (IP etc) and you can add extra code in the specificed section to be run once a connection if established. 
 
 <h1>LED</h1>
 
