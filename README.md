@@ -17,3 +17,11 @@ All wiring images were created using fritzing (http://fritzing.org)
 The firmware was built on https://nodemcu-build.com, and flashed with nodemcu-pyflasher (https://github.com/marcelstoer/nodemcu-pyflasher)
 
 I connect to my ESP8266 and upload the code using Esplorer (https://esp8266.ru/esplorer/)
+
+﻿# LED
+ 
+ 
+﻿# Relay
+  
+  
+﻿# WiFi
