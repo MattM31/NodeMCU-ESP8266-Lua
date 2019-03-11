@@ -1,4 +1,4 @@
-﻿# NodeMCU
+﻿# NodeMCU ESP8266 Lua
 
 I’m new to coding so I’ve created this after struggling to find really simple and well explained examples for my hobby projects.
 
