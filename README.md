@@ -3,9 +3,10 @@
 I’m new to coding so I’ve created this after struggling to find really simple and well explained examples for my hobby projects.
 
 Current code includes:    <br>
+&emsp; &#9642; WiFi    <br>
 &emsp; &#9642; LEDs    <br>
-  5v Relays    <br>
-  MFRC-522 RFID (reader)    <br>
+&emsp; &#9642; 5v Relays    <br>
+&emsp; &#9642; MFRC-522 RFID (reader)    <br>
 
 I'm hoping to start a Youtube channel with tutorials soon (ish).
 
