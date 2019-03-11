@@ -18,10 +18,4 @@ The firmware was built on https://nodemcu-build.com, and flashed with nodemcu-py
 
 I connect to my ESP8266 and upload the code using Esplorer (https://esp8266.ru/esplorer/)
 
-﻿# LED
- 
- 
-﻿# Relay
-  
-  
-﻿# WiFi
+<h1>WiFi</h1>
