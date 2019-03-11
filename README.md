@@ -2,7 +2,7 @@
 
 I’m new to coding so I’ve created this after struggling to find really simple and well explained examples for my hobby projects.
 
-Current code includes:
+Current code includes:    <br>
 &#09;  LEDs    <br>
   5v Relays    <br>
   MFRC-522 RFID (reader)    <br>
